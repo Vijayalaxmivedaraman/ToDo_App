@@ -1,12 +1,11 @@
 # ToDo_App
 # 📝 Flutter To-Do App with Login Screen
 
-This is a simple and visually appealing To-Do app built using **Flutter**. It features a fake login screen (no backend authentication) and a task manager with add, search, and delete functionality.
+This is a simple and visually appealing To-Do app built using **Flutter**. It features a login screen and a task manager with add, search, and delete functionality.
 
 ## 🌟 Features
 
 - 💻 Beautiful and modern UI with Material 3 design
-- 🔒 Fake login screen to simulate user authentication
 - ✅ Add and delete tasks with confirmation
 - 🔍 Real-time search for tasks
 - 🔄 Pull to refresh
@@ -18,7 +17,6 @@ This is a simple and visually appealing To-Do app built using **Flutter**. It fe
 |------------|-----------|
 | ![Login](assets/screenshots/login.png) | ![Tasks](assets/screenshots/tasks.png) |
 
-> Add your screenshots inside the `assets/screenshots` folder.
 
 ## 🚀 Getting Started
 
